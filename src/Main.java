@@ -21,7 +21,7 @@ public class Main {
 			int onNum = 0;//ÁÁ×ÅµÄµÆÊı
 			for(int index =0; index<lights.length ; index++)
 				if(lights[index]==true){
-					onNum ++;
+					onNum ++;//
 				}
 			System.out.print(onNum);
 		}
